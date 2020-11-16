@@ -5,7 +5,7 @@ class config:
     DATABASE_URL = "postgres://ldbyfrgjyentuv:a70f5525b37da67a33958f851706bbaddcbf29b977fa09be59b6ec2c1a8db096@ec2-54-246-85-151.eu-west-1.compute.amazonaws.com:5432/d8eoi8a3gduf6"
     SUDO_USERS = "1481489037" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/WE26jRPX37_dq3oJ9Woqzw"
-    DOWNLOAD_DIRECTORY = "./Mybot2/"
+    DOWNLOAD_DIRECTORY = "./downloads/"
 
 
 class BotCommands:
